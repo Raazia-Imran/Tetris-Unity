@@ -82,5 +82,44 @@ Timers control piece descent and lock delay for smooth gameplay.
 - 🧮 Future scoring logic easily attachable via modular design  
 
 ---
+🔮 Future Enhancements
+🧠 Scoring system with levels and speed increase
 
+🕹 Hold piece mechanic
+
+🎵 Background music and retro SFX
+
+🔥 Visual feedback on drops and clears
+
+🧾 High score saving using PlayerPrefs
+
+📱 Touch controls for mobile
+
+🛑 Pause, Restart, and Help menus
+
+🎨 Enhanced UI with instructions
+
+✅ Final Thoughts
+This game represents the core philosophy of the Nostalgic Games Project — reviving classic games using modern tools. It was built to explore Unity 2D systems, modular scripting, and user input systems.
+
+By recreating Tetris, we gained experience in:
+
+Unity Tilemaps
+
+OOP scripting in C#
+
+Rotation algorithms and wall kick logic
+
+Game grid validation
+
+Building responsive game loops
+
+This game can be extended or used as a template for future retro-style puzzle games.
+
+🙋‍♀️ Developer Info
+Developer: Raazia Imran
+GitHub: @Raazia-Imran
+Project: Part of my "Nostalgic Games Collection" using Unity
+
+⭐ If you like this project, don't forget to give it a star!
 
